@@ -11,6 +11,12 @@ class D:
     
     def MD2(self):
         print("MD2")
+<<<<<<< HEAD
 
     def MD3(self):
         print("MD3")
+=======
+    
+    def MD4(self):
+        print("MD4")
+>>>>>>> 8eeaf0305926756dedd0147b5f09f114dbfc4a26
