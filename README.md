@@ -15,4 +15,4 @@ print("Alteração a classe a partir do clone.")
 3. topico3
    
    
-[Link do Google](google.com)
+[Link do Google](www.google.com)
